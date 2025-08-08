@@ -1,0 +1,478 @@
+[
+    {
+        "id": 1,
+        "dialogue": "Did you hear that? They've shut down the main reactor. We'll be destroyed for sure. This is madness!"
+    },
+    {
+        "id": 2,
+        "dialogue": "We're doomed!"
+    },
+    {
+        "id": 3,
+        "dialogue": "There'll be no escape for the Princess this time."
+    },
+    {
+        "id": 4,
+        "dialogue": "What's that?"
+    },
+    {
+        "id": 5,
+        "dialogue": "I should have known better than to trust the logic of a half-sized thermocapsulary dehousing assister..."
+    },
+    {
+        "id": 7,
+        "dialogue": "Artoo! Artoo-Detoo, where are you?"
+    },
+    {
+        "id": 8,
+        "dialogue": "At last! Where have you been?"
+    },
+    {
+        "id": 9,
+        "dialogue": "They're heading in this direction. What are we going to do? We'll be sent to the spice mines of Kessel or smashed into who knows what!"
+    },
+    {
+        "id": 10,
+        "dialogue": "Wait a minute, where are you going?"
+    },
+    {
+        "id": 18,
+        "dialogue": "Hey, you're not permitted in there. It's restricted. You'll be deactivated for sure.."
+    },
+    {
+        "id": 19,
+        "dialogue": "Don't call me a mindless philosopher, you overweight glob of grease! Now come out before somebody sees you."
+    },
+    {
+        "id": 20,
+        "dialogue": "Secret mission? What plans? What are you talking about? I'm not getting in there!"
+    },
+    {
+        "id": 21,
+        "dialogue": "I'm going to regret this."
+    },
+    {
+        "id": 24,
+        "dialogue": "That's funny, the damage doesn't look as bad from out here."
+    },
+    {
+        "id": 25,
+        "dialogue": "Are you sure this things safe?"
+    },
+    {
+        "id": 53,
+        "dialogue": "How did I get into this mess? I really don't know how. We seem to be made to suffer. It's our lot in life."
+    },
+    {
+        "id": 54,
+        "dialogue": "I've got to rest before I fall apart. My joints are almost frozen. "
+    },
+    {
+        "id": 55,
+        "dialogue": "What a desolate place this is."
+    },
+    {
+        "id": 56,
+        "dialogue": "Where are you going?"
+    },
+    {
+        "id": 57,
+        "dialogue": "Well, I'm not going that way. It's much too rocky. This way is much easier."
+    },
+    {
+        "id": 58,
+        "dialogue": "What makes you think there are settlements over there?"
+    },
+    {
+        "id": 59,
+        "dialogue": "Don't get technical with me."
+    },
+    {
+        "id": 60,
+        "dialogue": "What mission? What are you talking about? I've had just about enough of you! Go that way! You'll be malfunctioning within a day, you nearsighted scrap pile!"
+    },
+    {
+        "id": 61,
+        "dialogue": "And don't let me catch you following me begging for help, because you won't get it."
+    },
+    {
+        "id": 62,
+        "dialogue": "No more adventures. I'm not going that way."
+    },
+    {
+        "id": 63,
+        "dialogue": "That malfunctioning little twerp. This is all his fault! He tricked me into going this way, but he'll do no better."
+    },
+    {
+        "id": 64,
+        "dialogue": "Wait, what's that? A transport! I'm saved!"
+    },
+    {
+        "id": 65,
+        "dialogue": "Over here! Help! Please, help!"
+    },
+    {
+        "id": 94,
+        "dialogue": "Artoo-Detoo! It's you! It's you!"
+    },
+    {
+        "id": 97,
+        "dialogue": "Wake up! Wake up!"
+    },
+    {
+        "id": 98,
+        "dialogue": "We're doomed."
+    },
+    {
+        "id": 99,
+        "dialogue": "Do you think they'll melt us down?"
+    },
+    {
+        "id": 100,
+        "dialogue": "Don't shoot! Don't shoot! Will this never end?"
+    },
+    {
+        "id": 104,
+        "dialogue": "Sir - not in an environment such as this - that's why I've also been programmed for over thirty secondary functions that..."
+    },
+    {
+        "id": 106,
+        "dialogue": "Vaporators! Sir - My first job was programming binary load lifters... very similar to your vaporators. You could say..."
+    },
+    {
+        "id": 108,
+        "dialogue": "Of course I can, sir. It's like a second language for me... I'm as fluent in Bocce..."
+    },
+    {
+        "id": 110,
+        "dialogue": "Shutting up, sir."
+    },
+    {
+        "id": 119,
+        "dialogue": "Excuse me, sir, but that R2 unit is in prime condition. A real bargain."
+    },
+    {
+        "id": 125,
+        "dialogue": "Uh, I'm quite sure you'll be very pleased with that one, sir. He really is in first-class condition. I've worked with him before. Here he comes."
+    },
+    {
+        "id": 127,
+        "dialogue": "Now, don't forget this! Why I should stick my neck out for you is quite beyond my capacity!"
+    },
+    {
+        "id": 128,
+        "dialogue": "Thank the maker! This oil bath is going to feel so good. I've got such a bad case of dust contamination, I can barely move!"
+    },
+    {
+        "id": 130,
+        "dialogue": "Is there anything I might do to help? "
+    },
+    {
+        "id": 132,
+        "dialogue": "I don't think so, sir. I'm only a droid and not very knowledgeable about such things. Not on this planet, anyways. As a matter of fact, I'm not even sure which planet I'm on."
+    },
+    {
+        "id": 134,
+        "dialogue": "I see, sir."
+    },
+    {
+        "id": 136,
+        "dialogue": "I see, sir Luke."
+    },
+    {
+        "id": 138,
+        "dialogue": "And I am See-Threepio, human-cyborg relations, and this is my counterpart, Artoo-Detoo."
+    },
+    {
+        "id": 141,
+        "dialogue": "With all we've been through, sometimes I'm amazed we're in as good condition as we are, what with the Rebellion and all."
+    },
+    {
+        "id": 143,
+        "dialogue": "That's how we came to be in your service, if you take my meaning, sir."
+    },
+    {
+        "id": 145,
+        "dialogue": "Several, I think. Actually, there's not much to tell. I'm not much more than an interpreter, and not very good at telling stories. Well, not at making them interesting, anyways."
+    },
+    {
+        "id": 149,
+        "dialogue": "What is what?!? He asked you a question...What is that?"
+    },
+    {
+        "id": 151,
+        "dialogue": "Oh, he says it's nothing, sir. Merely a malfunction. Old data. Pay it no mind."
+    },
+    {
+        "id": 153,
+        "dialogue": "I'm afraid I'm not quite sure, sir."
+    },
+    {
+        "id": 155,
+        "dialogue": "I think she was a passenger on our last voyage. A person of some importance, sir - I believe. Our captain was attached to..."
+    },
+    {
+        "id": 157,
+        "dialogue": "Behave yourself, Artoo. You're going to get us in trouble. It's all right, you can trust him. He's our new master."
+    },
+    {
+        "id": 158,
+        "dialogue": "He says he's the property of Obi-Wan Kenobi, a resident of these parts. And it's a private message for him. Quite frankly, sir, I don't know what he's talking about. Our last master was Captain Antilles, but with what we've been through, this little R2 unit has become a bit eccentric."
+    },
+    {
+        "id": 160,
+        "dialogue": "I beg your pardon, sir, but do you know what he's talking about?"
+    },
+    {
+        "id": 163,
+        "dialogue": "He says the restraining bolt has short circuited his recording system. He suggests that if you remove the bolt, he might be able to play back the entire recording."
+    },
+    {
+        "id": 167,
+        "dialogue": "been playing. The one you're carrying inside your rusty innards! "
+    },
+    {
+        "id": 170,
+        "dialogue": "I'm sorry, sir, but he appears to have picked up a slight flutter."
+    },
+    {
+        "id": 172,
+        "dialogue": "Just you reconsider playing that message for him."
+    },
+    {
+        "id": 173,
+        "dialogue": "No, I don't think he likes you at all."
+    },
+    {
+        "id": 174,
+        "dialogue": "No, I don't like you either."
+    },
+    {
+        "id": 199,
+        "dialogue": "It wasn't my fault, sir. Please don't deactivate me. I told him not to go, but he's faulty, malfunctioning; kept babbling on about his mission."
+    },
+    {
+        "id": 201,
+        "dialogue": "That R2 unit has always been a problem. These astro-droids are getting quite out of hand. Even I can't understand their logic at times. "
+    },
+    {
+        "id": 203,
+        "dialogue": "Pardon me, sir, but couldn't we go after him?"
+    },
+    {
+        "id": 208,
+        "dialogue": "Oh, he excels at that, sir."
+    },
+    {
+        "id": 217,
+        "dialogue": "Sir, would it help if you told him it was my fault."
+    },
+    {
+        "id": 219,
+        "dialogue": "Deactivate! Well, on the other hand if you hadn't removed his restraining bolt..."
+    },
+    {
+        "id": 222,
+        "dialogue": "Master Luke here is your rightful owner. We'll have no more of this Obi-Wan Kenobi jibberish... and don't talk to me of your mission, either. You're fortunate he doesn't blast you into a million pieces right here."
+    },
+    {
+        "id": 224,
+        "dialogue": "If you don't mind my saying so, sir, I think you should deactivate the little fugitive until you've gotten him back to your workshop."
+    },
+    {
+        "id": 227,
+        "dialogue": "Oh my... sir, he says there are several creatures approaching from the southeast."
+    },
+    {
+        "id": 246,
+        "dialogue": "Where am I? I must have taken a bad step..."
+    },
+    {
+        "id": 248,
+        "dialogue": "I don't think I can make it. You go on, Master Luke. There's no sense in you risking yourself on my account. I'm done for."
+    },
+    {
+        "id": 258,
+        "dialogue": "Sir, if you'll not be needing me, I'll close down for awhile."
+    },
+    {
+        "id": 319,
+        "dialogue": "I can't abide these Jawas. Disgusting creatures."
+    },
+    {
+        "id": 325,
+        "dialogue": "Come along, Artoo."
+    },
+    {
+        "id": 330,
+        "dialogue": "I heartily agree with you sir."
+    },
+    {
+        "id": 341,
+        "dialogue": "I don't like the look of this."
+    },
+    {
+        "id": 383,
+        "dialogue": "Lock the door, Artoo."
+    },
+    {
+        "id": 385,
+        "dialogue": "I would much rather have gone with Master Luke than stay here with you. I don't know what all this trouble is about, but I'm sure it must be your fault."
+    },
+    {
+        "id": 386,
+        "dialogue": "You watch your language!"
+    },
+    {
+        "id": 405,
+        "dialogue": "Hello, sir."
+    },
+    {
+        "id": 411,
+        "dialogue": "Oh, my. I'd forgotten how much I hate space travel."
+    },
+    {
+        "id": 446,
+        "dialogue": "Now be careful, Artoo."
+    },
+    {
+        "id": 447,
+        "dialogue": "He made a fair move. Screaming about it won't help you."
+    },
+    {
+        "id": 449,
+        "dialogue": "But sir, nobody worries about upsetting a droid."
+    },
+    {
+        "id": 451,
+        "dialogue": "I see your point, sir. I suggest a new strategy, Artoo. Let the Wookiee win."
+    },
+    {
+        "id": 536,
+        "dialogue": "We found the computer outlet, sir."
+    },
+    {
+        "id": 538,
+        "dialogue": "He says he's found the main control to the power beam that's holding the ship here. He'll try to make the precise location appear on the monitor."
+    },
+    {
+        "id": 539,
+        "dialogue": "The tractor beam is coupled to the main reactor in seven locations. A power loss at one of the terminals will allow the ship to leave."
+    },
+    {
+        "id": 554,
+        "dialogue": "I'm afraid I'm not quite sure, sir. He says \\\"I found her,\\ and keepsrepeating, \\\"She's here.\\"
+    },
+    {
+        "id": 556,
+        "dialogue": "Princess Leia."
+    },
+    {
+        "id": 561,
+        "dialogue": "Level five. Detention block AA-twenty-three. I'm afraid she's scheduled to be terminated."
+    },
+    {
+        "id": 588,
+        "dialogue": "Master Luke, sir! Pardon me for asking... but, ah... what should Artoo and I do if we're discovered here?"
+    },
+    {
+        "id": 591,
+        "dialogue": "That isn't very reassuring."
+    },
+    {
+        "id": 634,
+        "dialogue": "Yes sir?"
+    },
+    {
+        "id": 636,
+        "dialogue": "I said, all systems have been alerted to your presence, sir. The main entrance seems to be the only way out; all other information on your level is restricted."
+    },
+    {
+        "id": 638,
+        "dialogue": "Oh, no!"
+    },
+    {
+        "id": 676,
+        "dialogue": "They're madmen! They're heading for the prison level. If you hurry, you might catch them."
+    },
+    {
+        "id": 678,
+        "dialogue": "Come on!"
+    },
+    {
+        "id": 679,
+        "dialogue": "Oh! All this excitement has overrun the circuits of my counterpart here. If you don't mind, I'd like to take him down to maintenance."
+    },
+    {
+        "id": 685,
+        "dialogue": "They aren't here! Something must have happened to them. See if they've been captured."
+    },
+    {
+        "id": 686,
+        "dialogue": "Hurry!"
+    },
+    {
+        "id": 689,
+        "dialogue": "Thank goodness, they haven't found them! Where could they be?"
+    },
+    {
+        "id": 690,
+        "dialogue": "Use the comlink? Oh, my! I forgot I turned it off!"
+    },
+    {
+        "id": 691,
+        "dialogue": "Are you there, sir?"
+    },
+    {
+        "id": 693,
+        "dialogue": "We've had some problems..."
+    },
+    {
+        "id": 697,
+        "dialogue": "No. Shut them all down! Hurry!"
+    },
+    {
+        "id": 698,
+        "dialogue": "Listen to them! They're dying, Artoo! Curse my metal body! I wasn't fast enough. It's all my fault! My poor master!"
+    },
+    {
+        "id": 721,
+        "dialogue": "For the moment. Uh, we're in the main hangar across from the ship."
+    },
+    {
+        "id": 739,
+        "dialogue": "Where could they be?"
+    },
+    {
+        "id": 753,
+        "dialogue": "Come on, Artoo, we're going!"
+    },
+    {
+        "id": 768,
+        "dialogue": "Oooh!"
+    },
+    {
+        "id": 777,
+        "dialogue": "Help! I think I'm melting!This is all your fault."
+    },
+    {
+        "id": 837,
+        "dialogue": "Hang on tight, Artoo, you've got to come back."
+    },
+    {
+        "id": 838,
+        "dialogue": "You wouldn't want my life to get boring, would you?"
+    },
+    {
+        "id": 979,
+        "dialogue": "Hang on, Artoo!"
+    },
+    {
+        "id": 1007,
+        "dialogue": "Oh, my! Artoo! Can you hear me? Say something!You can repair him, can't you?"
+    },
+    {
+        "id": 1009,
+        "dialogue": "You must repair him! Sir, if any of my circuits or gears will help, I'll gladly donate them."
+    }
+]
